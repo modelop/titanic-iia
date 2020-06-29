@@ -1,0 +1,143 @@
+{"PassengerId": 871, "Pclass": 3, "Name": "Balkic, Mr. Cerin", "Sex": "male", "Age": 26.0, "SibSp": 0, "Parch": 0, "Ticket": "349248", "Fare": 7.8958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 499, "Pclass": 1, "Name": "Allison, Mrs. Hudson J C (Bessie Waldo Daniels)", "Sex": "female", "Age": 25.0, "SibSp": 1, "Parch": 2, "Ticket": "113781", "Fare": 151.55, "Cabin": "C22 C26", "Embarked": "S"}
+{"PassengerId": 662, "Pclass": 3, "Name": "Badt, Mr. Mohamed", "Sex": "male", "Age": 40.0, "SibSp": 0, "Parch": 0, "Ticket": "2623", "Fare": 7.225, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 173, "Pclass": 3, "Name": "Johnson, Miss. Eleanor Ileen", "Sex": "female", "Age": 1.0, "SibSp": 1, "Parch": 1, "Ticket": "347742", "Fare": 11.1333, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 60, "Pclass": 3, "Name": "Goodwin, Master. William Frederick", "Sex": "male", "Age": 11.0, "SibSp": 5, "Parch": 2, "Ticket": "CA 2144", "Fare": 46.9, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 519, "Pclass": 2, "Name": "Angle, Mrs. William A (Florence \"Mary\" Agnes Hughes)", "Sex": "female", "Age": 36.0, "SibSp": 1, "Parch": 0, "Ticket": "226875", "Fare": 26.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 601, "Pclass": 2, "Name": "Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)", "Sex": "female", "Age": 24.0, "SibSp": 2, "Parch": 1, "Ticket": "243847", "Fare": 27.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 481, "Pclass": 3, "Name": "Goodwin, Master. Harold Victor", "Sex": "male", "Age": 9.0, "SibSp": 5, "Parch": 2, "Ticket": "CA 2144", "Fare": 46.9, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 803, "Pclass": 1, "Name": "Carter, Master. William Thornton II", "Sex": "male", "Age": 11.0, "SibSp": 1, "Parch": 2, "Ticket": "113760", "Fare": 120.0, "Cabin": "B96 B98", "Embarked": "S"}
+{"PassengerId": 573, "Pclass": 1, "Name": "Flynn, Mr. John Irwin (\"Irving\")", "Sex": "male", "Age": 36.0, "SibSp": 0, "Parch": 0, "Ticket": "PC 17474", "Fare": 26.3875, "Cabin": "E25", "Embarked": "S"}
+{"PassengerId": 475, "Pclass": 3, "Name": "Strandberg, Miss. Ida Sofia", "Sex": "female", "Age": 22.0, "SibSp": 0, "Parch": 0, "Ticket": "7553", "Fare": 9.8375, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 86, "Pclass": 3, "Name": "Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)", "Sex": "female", "Age": 33.0, "SibSp": 3, "Parch": 0, "Ticket": "3101278", "Fare": 15.85, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 736, "Pclass": 3, "Name": "Williams, Mr. Leslie", "Sex": "male", "Age": 28.5, "SibSp": 0, "Parch": 0, "Ticket": "54636", "Fare": 16.1, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 637, "Pclass": 3, "Name": "Leinonen, Mr. Antti Gustaf", "Sex": "male", "Age": 32.0, "SibSp": 0, "Parch": 0, "Ticket": "STON/O 2. 3101292", "Fare": 7.925, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 55, "Pclass": 1, "Name": "Ostby, Mr. Engelhart Cornelius", "Sex": "male", "Age": 65.0, "SibSp": 0, "Parch": 1, "Ticket": "113509", "Fare": 61.9792, "Cabin": "B30", "Embarked": "C"}
+{"PassengerId": 26, "Pclass": 3, "Name": "Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)", "Sex": "female", "Age": 38.0, "SibSp": 1, "Parch": 5, "Ticket": "347077", "Fare": 31.3875, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 459, "Pclass": 2, "Name": "Toomey, Miss. Ellen", "Sex": "female", "Age": 50.0, "SibSp": 0, "Parch": 0, "Ticket": "F.C.C. 13531", "Fare": 10.5, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 656, "Pclass": 2, "Name": "Hickman, Mr. Leonard Mark", "Sex": "male", "Age": 24.0, "SibSp": 2, "Parch": 0, "Ticket": "S.O.C. 14879", "Fare": 73.5, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 150, "Pclass": 2, "Name": "Byles, Rev. Thomas Roussel Davids", "Sex": "male", "Age": 42.0, "SibSp": 0, "Parch": 0, "Ticket": "244310", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 438, "Pclass": 2, "Name": "Richards, Mrs. Sidney (Emily Hocking)", "Sex": "female", "Age": 24.0, "SibSp": 2, "Parch": 3, "Ticket": "29106", "Fare": 18.75, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 682, "Pclass": 1, "Name": "Hassab, Mr. Hammad", "Sex": "male", "Age": 27.0, "SibSp": 0, "Parch": 0, "Ticket": "PC 17572", "Fare": 76.7292, "Cabin": "D49", "Embarked": "C"}
+{"PassengerId": 249, "Pclass": 1, "Name": "Beckwith, Mr. Richard Leonard", "Sex": "male", "Age": 37.0, "SibSp": 1, "Parch": 1, "Ticket": "11751", "Fare": 52.5542, "Cabin": "D35", "Embarked": "S"}
+{"PassengerId": 392, "Pclass": 3, "Name": "Jansson, Mr. Carl Olof", "Sex": "male", "Age": 21.0, "SibSp": 0, "Parch": 0, "Ticket": "350034", "Fare": 7.7958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 875, "Pclass": 2, "Name": "Abelson, Mrs. Samuel (Hannah Wizosky)", "Sex": "female", "Age": 28.0, "SibSp": 1, "Parch": 0, "Ticket": "P/PP 3381", "Fare": 24.0, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 136, "Pclass": 2, "Name": "Richard, Mr. Emile", "Sex": "male", "Age": 23.0, "SibSp": 0, "Parch": 0, "Ticket": "SC/PARIS 2133", "Fare": 15.0458, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 191, "Pclass": 2, "Name": "Pinsky, Mrs. (Rosa)", "Sex": "female", "Age": 32.0, "SibSp": 0, "Parch": 0, "Ticket": "234604", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 123, "Pclass": 2, "Name": "Nasser, Mr. Nicholas", "Sex": "male", "Age": 32.5, "SibSp": 1, "Parch": 0, "Ticket": "237736", "Fare": 30.0708, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 646, "Pclass": 1, "Name": "Harper, Mr. Henry Sleeper", "Sex": "male", "Age": 48.0, "SibSp": 1, "Parch": 0, "Ticket": "PC 17572", "Fare": 76.7292, "Cabin": "D33", "Embarked": "C"}
+{"PassengerId": 444, "Pclass": 2, "Name": "Reynaldo, Ms. Encarnacion", "Sex": "female", "Age": 28.0, "SibSp": 0, "Parch": 0, "Ticket": "230434", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 552, "Pclass": 2, "Name": "Sharp, Mr. Percival James R", "Sex": "male", "Age": 27.0, "SibSp": 0, "Parch": 0, "Ticket": "244358", "Fare": 26.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 361, "Pclass": 3, "Name": "Skoog, Mr. Wilhelm", "Sex": "male", "Age": 40.0, "SibSp": 1, "Parch": 4, "Ticket": "347088", "Fare": 27.9, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 381, "Pclass": 1, "Name": "Bidois, Miss. Rosalie", "Sex": "female", "Age": 42.0, "SibSp": 0, "Parch": 0, "Ticket": "PC 17757", "Fare": 227.525, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 542, "Pclass": 3, "Name": "Andersson, Miss. Ingeborg Constanzia", "Sex": "female", "Age": 9.0, "SibSp": 4, "Parch": 2, "Ticket": "347082", "Fare": 31.275, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 533, "Pclass": 3, "Name": "Elias, Mr. Joseph Jr", "Sex": "male", "Age": 17.0, "SibSp": 1, "Parch": 1, "Ticket": "2690", "Fare": 7.2292, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 198, "Pclass": 3, "Name": "Olsen, Mr. Karl Siegwart Andreas", "Sex": "male", "Age": 42.0, "SibSp": 0, "Parch": 1, "Ticket": "4579", "Fare": 8.4042, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 841, "Pclass": 3, "Name": "Alhomaki, Mr. Ilmari Rudolf", "Sex": "male", "Age": 20.0, "SibSp": 0, "Parch": 0, "Ticket": "SOTON/O2 3101287", "Fare": 7.925, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 511, "Pclass": 3, "Name": "Daly, Mr. Eugene Patrick", "Sex": "male", "Age": 29.0, "SibSp": 0, "Parch": 0, "Ticket": "382651", "Fare": 7.75, "Cabin": null, "Embarked": "Q"}
+{"PassengerId": 89, "Pclass": 1, "Name": "Fortune, Miss. Mabel Helen", "Sex": "female", "Age": 23.0, "SibSp": 3, "Parch": 2, "Ticket": "19950", "Fare": 263.0, "Cabin": "C23 C25 C27", "Embarked": "S"}
+{"PassengerId": 244, "Pclass": 3, "Name": "Maenpaa, Mr. Matti Alexanteri", "Sex": "male", "Age": 22.0, "SibSp": 0, "Parch": 0, "Ticket": "STON/O 2. 3101275", "Fare": 7.125, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 492, "Pclass": 3, "Name": "Windelov, Mr. Einar", "Sex": "male", "Age": 21.0, "SibSp": 0, "Parch": 0, "Ticket": "SOTON/OQ 3101317", "Fare": 7.25, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 760, "Pclass": 1, "Name": "Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)", "Sex": "female", "Age": 33.0, "SibSp": 0, "Parch": 0, "Ticket": "110152", "Fare": 86.5, "Cabin": "B77", "Embarked": "S"}
+{"PassengerId": 140, "Pclass": 1, "Name": "Giglio, Mr. Victor", "Sex": "male", "Age": 24.0, "SibSp": 0, "Parch": 0, "Ticket": "PC 17593", "Fare": 79.2, "Cabin": "B86", "Embarked": "C"}
+{"PassengerId": 294, "Pclass": 3, "Name": "Haas, Miss. Aloisia", "Sex": "female", "Age": 24.0, "SibSp": 0, "Parch": 0, "Ticket": "349236", "Fare": 8.85, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 398, "Pclass": 2, "Name": "McKane, Mr. Peter David", "Sex": "male", "Age": 46.0, "SibSp": 0, "Parch": 0, "Ticket": "28403", "Fare": 26.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 557, "Pclass": 1, "Name": "Duff Gordon, Lady. (Lucille Christiana Sutherland) (\"Mrs Morgan\")", "Sex": "female", "Age": 48.0, "SibSp": 1, "Parch": 0, "Ticket": "11755", "Fare": 39.6, "Cabin": "A16", "Embarked": "C"}
+{"PassengerId": 138, "Pclass": 1, "Name": "Futrelle, Mr. Jacques Heath", "Sex": "male", "Age": 37.0, "SibSp": 1, "Parch": 0, "Ticket": "113803", "Fare": 53.1, "Cabin": "C123", "Embarked": "S"}
+{"PassengerId": 337, "Pclass": 1, "Name": "Pears, Mr. Thomas Clinton", "Sex": "male", "Age": 29.0, "SibSp": 1, "Parch": 0, "Ticket": "113776", "Fare": 66.6, "Cabin": "C2", "Embarked": "S"}
+{"PassengerId": 886, "Pclass": 3, "Name": "Rice, Mrs. William (Margaret Norton)", "Sex": "female", "Age": 39.0, "SibSp": 0, "Parch": 5, "Ticket": "382652", "Fare": 29.125, "Cabin": null, "Embarked": "Q"}
+{"PassengerId": 446, "Pclass": 1, "Name": "Dodge, Master. Washington", "Sex": "male", "Age": 4.0, "SibSp": 0, "Parch": 2, "Ticket": "33638", "Fare": 81.8583, "Cabin": "A34", "Embarked": "S"}
+{"PassengerId": 41, "Pclass": 3, "Name": "Ahlin, Mrs. Johan (Johanna Persdotter Larsson)", "Sex": "female", "Age": 40.0, "SibSp": 1, "Parch": 0, "Ticket": "7546", "Fare": 9.475, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 566, "Pclass": 3, "Name": "Davies, Mr. Alfred J", "Sex": "male", "Age": 24.0, "SibSp": 2, "Parch": 0, "Ticket": "A/4 48871", "Fare": 24.15, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 45, "Pclass": 3, "Name": "Devaney, Miss. Margaret Delia", "Sex": "female", "Age": 19.0, "SibSp": 0, "Parch": 0, "Ticket": "330958", "Fare": 7.8792, "Cabin": null, "Embarked": "Q"}
+{"PassengerId": 715, "Pclass": 2, "Name": "Greenberg, Mr. Samuel", "Sex": "male", "Age": 52.0, "SibSp": 0, "Parch": 0, "Ticket": "250647", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 734, "Pclass": 2, "Name": "Berriman, Mr. William John", "Sex": "male", "Age": 23.0, "SibSp": 0, "Parch": 0, "Ticket": "28425", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 5, "Pclass": 3, "Name": "Allen, Mr. William Henry", "Sex": "male", "Age": 35.0, "SibSp": 0, "Parch": 0, "Ticket": "373450", "Fare": 8.05, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 217, "Pclass": 3, "Name": "Honkanen, Miss. Eliina", "Sex": "female", "Age": 27.0, "SibSp": 0, "Parch": 0, "Ticket": "STON/O2. 3101283", "Fare": 7.925, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 61, "Pclass": 3, "Name": "Sirayanian, Mr. Orsen", "Sex": "male", "Age": 22.0, "SibSp": 0, "Parch": 0, "Ticket": "2669", "Fare": 7.2292, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 500, "Pclass": 3, "Name": "Svensson, Mr. Olof", "Sex": "male", "Age": 24.0, "SibSp": 0, "Parch": 0, "Ticket": "350035", "Fare": 7.7958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 480, "Pclass": 3, "Name": "Hirvonen, Miss. Hildur E", "Sex": "female", "Age": 2.0, "SibSp": 0, "Parch": 1, "Ticket": "3101298", "Fare": 12.2875, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 731, "Pclass": 1, "Name": "Allen, Miss. Elisabeth Walton", "Sex": "female", "Age": 29.0, "SibSp": 0, "Parch": 0, "Ticket": "24160", "Fare": 211.3375, "Cabin": "B5", "Embarked": "S"}
+{"PassengerId": 757, "Pclass": 3, "Name": "Carlsson, Mr. August Sigfrid", "Sex": "male", "Age": 28.0, "SibSp": 0, "Parch": 0, "Ticket": "350042", "Fare": 7.7958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 371, "Pclass": 1, "Name": "Harder, Mr. George Achilles", "Sex": "male", "Age": 25.0, "SibSp": 1, "Parch": 0, "Ticket": "11765", "Fare": 55.4417, "Cabin": "E50", "Embarked": "C"}
+{"PassengerId": 399, "Pclass": 2, "Name": "Pain, Dr. Alfred", "Sex": "male", "Age": 23.0, "SibSp": 0, "Parch": 0, "Ticket": "244278", "Fare": 10.5, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 872, "Pclass": 1, "Name": "Beckwith, Mrs. Richard Leonard (Sallie Monypeny)", "Sex": "female", "Age": 47.0, "SibSp": 1, "Parch": 1, "Ticket": "11751", "Fare": 52.5542, "Cabin": "D35", "Embarked": "S"}
+{"PassengerId": 737, "Pclass": 3, "Name": "Ford, Mrs. Edward (Margaret Ann Watson)", "Sex": "female", "Age": 48.0, "SibSp": 1, "Parch": 3, "Ticket": "W./C. 6608", "Fare": 34.375, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 515, "Pclass": 3, "Name": "Coleff, Mr. Satio", "Sex": "male", "Age": 24.0, "SibSp": 0, "Parch": 0, "Ticket": "349209", "Fare": 7.4958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 437, "Pclass": 3, "Name": "Ford, Miss. Doolina Margaret \"Daisy\"", "Sex": "female", "Age": 21.0, "SibSp": 2, "Parch": 2, "Ticket": "W./C. 6608", "Fare": 34.375, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 485, "Pclass": 1, "Name": "Bishop, Mr. Dickinson H", "Sex": "male", "Age": 25.0, "SibSp": 1, "Parch": 0, "Ticket": "11967", "Fare": 91.0792, "Cabin": "B49", "Embarked": "C"}
+{"PassengerId": 890, "Pclass": 1, "Name": "Behr, Mr. Karl Howell", "Sex": "male", "Age": 26.0, "SibSp": 0, "Parch": 0, "Ticket": "111369", "Fare": 30.0, "Cabin": "C148", "Embarked": "C"}
+{"PassengerId": 260, "Pclass": 2, "Name": "Parrish, Mrs. (Lutie Davis)", "Sex": "female", "Age": 50.0, "SibSp": 0, "Parch": 1, "Ticket": "230433", "Fare": 26.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 327, "Pclass": 3, "Name": "Nysveen, Mr. Johan Hansen", "Sex": "male", "Age": 61.0, "SibSp": 0, "Parch": 0, "Ticket": "345364", "Fare": 6.2375, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 696, "Pclass": 2, "Name": "Chapman, Mr. Charles Henry", "Sex": "male", "Age": 52.0, "SibSp": 0, "Parch": 0, "Ticket": "248731", "Fare": 13.5, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 246, "Pclass": 1, "Name": "Minahan, Dr. William Edward", "Sex": "male", "Age": 44.0, "SibSp": 2, "Parch": 0, "Ticket": "19928", "Fare": 90.0, "Cabin": "C78", "Embarked": "Q"}
+{"PassengerId": 42, "Pclass": 2, "Name": "Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)", "Sex": "female", "Age": 27.0, "SibSp": 1, "Parch": 0, "Ticket": "11668", "Fare": 21.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 329, "Pclass": 3, "Name": "Goldsmith, Mrs. Frank John (Emily Alice Brown)", "Sex": "female", "Age": 31.0, "SibSp": 1, "Parch": 1, "Ticket": "363291", "Fare": 20.525, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 2, "Pclass": 1, "Name": "Cumings, Mrs. John Bradley (Florence Briggs Thayer)", "Sex": "female", "Age": 38.0, "SibSp": 1, "Parch": 0, "Ticket": "PC 17599", "Fare": 71.2833, "Cabin": "C85", "Embarked": "C"}
+{"PassengerId": 405, "Pclass": 3, "Name": "Oreskovic, Miss. Marija", "Sex": "female", "Age": 20.0, "SibSp": 0, "Parch": 0, "Ticket": "315096", "Fare": 8.6625, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 509, "Pclass": 3, "Name": "Olsen, Mr. Henry Margido", "Sex": "male", "Age": 28.0, "SibSp": 0, "Parch": 0, "Ticket": "C 4001", "Fare": 22.525, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 314, "Pclass": 3, "Name": "Hendekovic, Mr. Ignjac", "Sex": "male", "Age": 28.0, "SibSp": 0, "Parch": 0, "Ticket": "349243", "Fare": 7.8958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 214, "Pclass": 2, "Name": "Givard, Mr. Hans Kristensen", "Sex": "male", "Age": 30.0, "SibSp": 0, "Parch": 0, "Ticket": "250646", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 667, "Pclass": 2, "Name": "Butler, Mr. Reginald Fenton", "Sex": "male", "Age": 25.0, "SibSp": 0, "Parch": 0, "Ticket": "234686", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 725, "Pclass": 1, "Name": "Chambers, Mr. Norman Campbell", "Sex": "male", "Age": 27.0, "SibSp": 1, "Parch": 0, "Ticket": "113806", "Fare": 53.1, "Cabin": "E8", "Embarked": "S"}
+{"PassengerId": 295, "Pclass": 3, "Name": "Mineff, Mr. Ivan", "Sex": "male", "Age": 24.0, "SibSp": 0, "Parch": 0, "Ticket": "349233", "Fare": 7.8958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 453, "Pclass": 1, "Name": "Foreman, Mr. Benjamin Laventall", "Sex": "male", "Age": 30.0, "SibSp": 0, "Parch": 0, "Ticket": "113051", "Fare": 27.75, "Cabin": "C111", "Embarked": "C"}
+{"PassengerId": 64, "Pclass": 3, "Name": "Skoog, Master. Harald", "Sex": "male", "Age": 4.0, "SibSp": 3, "Parch": 2, "Ticket": "347088", "Fare": 27.9, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 8, "Pclass": 3, "Name": "Palsson, Master. Gosta Leonard", "Sex": "male", "Age": 2.0, "SibSp": 3, "Parch": 1, "Ticket": "349909", "Fare": 21.075, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 780, "Pclass": 1, "Name": "Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)", "Sex": "female", "Age": 43.0, "SibSp": 0, "Parch": 1, "Ticket": "24160", "Fare": 211.3375, "Cabin": "B3", "Embarked": "S"}
+{"PassengerId": 606, "Pclass": 3, "Name": "Lindell, Mr. Edvard Bengtsson", "Sex": "male", "Age": 36.0, "SibSp": 1, "Parch": 0, "Ticket": "349910", "Fare": 15.55, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 621, "Pclass": 3, "Name": "Yasbeck, Mr. Antoni", "Sex": "male", "Age": 27.0, "SibSp": 1, "Parch": 0, "Ticket": "2659", "Fare": 14.4542, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 490, "Pclass": 3, "Name": "Coutts, Master. Eden Leslie \"Neville\"", "Sex": "male", "Age": 9.0, "SibSp": 1, "Parch": 1, "Ticket": "C.A. 37671", "Fare": 15.9, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 855, "Pclass": 2, "Name": "Carter, Mrs. Ernest Courtenay (Lilian Hughes)", "Sex": "female", "Age": 44.0, "SibSp": 1, "Parch": 0, "Ticket": "244252", "Fare": 26.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 354, "Pclass": 3, "Name": "Arnold-Franchi, Mr. Josef", "Sex": "male", "Age": 25.0, "SibSp": 1, "Parch": 0, "Ticket": "349237", "Fare": 17.8, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 559, "Pclass": 1, "Name": "Taussig, Mrs. Emil (Tillie Mandelbaum)", "Sex": "female", "Age": 39.0, "SibSp": 1, "Parch": 1, "Ticket": "110413", "Fare": 79.65, "Cabin": "E67", "Embarked": "S"}
+{"PassengerId": 435, "Pclass": 1, "Name": "Silvey, Mr. William Baird", "Sex": "male", "Age": 50.0, "SibSp": 1, "Parch": 0, "Ticket": "13507", "Fare": 55.9, "Cabin": "E44", "Embarked": "S"}
+{"PassengerId": 610, "Pclass": 1, "Name": "Shutes, Miss. Elizabeth W", "Sex": "female", "Age": 40.0, "SibSp": 0, "Parch": 0, "Ticket": "PC 17582", "Fare": 153.4625, "Cabin": "C125", "Embarked": "S"}
+{"PassengerId": 762, "Pclass": 3, "Name": "Nirva, Mr. Iisakki Antino Aijo", "Sex": "male", "Age": 41.0, "SibSp": 0, "Parch": 0, "Ticket": "SOTON/O2 3101272", "Fare": 7.125, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 165, "Pclass": 3, "Name": "Panula, Master. Eino Viljami", "Sex": "male", "Age": 1.0, "SibSp": 4, "Parch": 1, "Ticket": "3101295", "Fare": 39.6875, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 152, "Pclass": 1, "Name": "Pears, Mrs. Thomas (Edith Wearne)", "Sex": "female", "Age": 22.0, "SibSp": 1, "Parch": 0, "Ticket": "113776", "Fare": 66.6, "Cabin": "C2", "Embarked": "S"}
+{"PassengerId": 650, "Pclass": 3, "Name": "Stanley, Miss. Amy Zillah Elsie", "Sex": "female", "Age": 23.0, "SibSp": 0, "Parch": 0, "Ticket": "CA. 2314", "Fare": 7.55, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 263, "Pclass": 1, "Name": "Taussig, Mr. Emil", "Sex": "male", "Age": 52.0, "SibSp": 1, "Parch": 1, "Ticket": "110413", "Fare": 79.65, "Cabin": "E67", "Embarked": "S"}
+{"PassengerId": 493, "Pclass": 1, "Name": "Molson, Mr. Harry Markland", "Sex": "male", "Age": 55.0, "SibSp": 0, "Parch": 0, "Ticket": "113787", "Fare": 30.5, "Cabin": "C30", "Embarked": "S"}
+{"PassengerId": 797, "Pclass": 1, "Name": "Leader, Dr. Alice (Farnham)", "Sex": "female", "Age": 49.0, "SibSp": 0, "Parch": 0, "Ticket": "17465", "Fare": 25.9292, "Cabin": "D17", "Embarked": "S"}
+{"PassengerId": 63, "Pclass": 1, "Name": "Harris, Mr. Henry Birkhardt", "Sex": "male", "Age": 45.0, "SibSp": 1, "Parch": 0, "Ticket": "36973", "Fare": 83.475, "Cabin": "C83", "Embarked": "S"}
+{"PassengerId": 885, "Pclass": 3, "Name": "Sutehall, Mr. Henry Jr", "Sex": "male", "Age": 25.0, "SibSp": 0, "Parch": 0, "Ticket": "SOTON/OQ 392076", "Fare": 7.05, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 340, "Pclass": 1, "Name": "Blackwell, Mr. Stephen Weart", "Sex": "male", "Age": 45.0, "SibSp": 0, "Parch": 0, "Ticket": "113784", "Fare": 35.5, "Cabin": "T", "Embarked": "S"}
+{"PassengerId": 386, "Pclass": 2, "Name": "Davies, Mr. Charles Henry", "Sex": "male", "Age": 18.0, "SibSp": 0, "Parch": 0, "Ticket": "S.O.C. 14879", "Fare": 73.5, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 647, "Pclass": 3, "Name": "Cor, Mr. Liudevit", "Sex": "male", "Age": 19.0, "SibSp": 0, "Parch": 0, "Ticket": "349231", "Fare": 7.8958, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 616, "Pclass": 2, "Name": "Herman, Miss. Alice", "Sex": "female", "Age": 24.0, "SibSp": 1, "Parch": 2, "Ticket": "220845", "Fare": 65.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 218, "Pclass": 2, "Name": "Jacobsohn, Mr. Sidney Samuel", "Sex": "male", "Age": 42.0, "SibSp": 1, "Parch": 0, "Ticket": "243847", "Fare": 27.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 778, "Pclass": 3, "Name": "Emanuel, Miss. Virginia Ethel", "Sex": "female", "Age": 5.0, "SibSp": 0, "Parch": 0, "Ticket": "364516", "Fare": 12.475, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 814, "Pclass": 3, "Name": "Andersson, Miss. Ebba Iris Alfrida", "Sex": "female", "Age": 6.0, "SibSp": 4, "Parch": 2, "Ticket": "347082", "Fare": 31.275, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 25, "Pclass": 3, "Name": "Palsson, Miss. Torborg Danira", "Sex": "female", "Age": 8.0, "SibSp": 3, "Parch": 1, "Ticket": "349909", "Fare": 21.075, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 422, "Pclass": 3, "Name": "Charters, Mr. David", "Sex": "male", "Age": 21.0, "SibSp": 0, "Parch": 0, "Ticket": "A/5. 13032", "Fare": 7.7333, "Cabin": null, "Embarked": "Q"}
+{"PassengerId": 669, "Pclass": 3, "Name": "Cook, Mr. Jacob", "Sex": "male", "Age": 43.0, "SibSp": 0, "Parch": 0, "Ticket": "A/5 3536", "Fare": 8.05, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 70, "Pclass": 3, "Name": "Kink, Mr. Vincenz", "Sex": "male", "Age": 26.0, "SibSp": 2, "Parch": 0, "Ticket": "315151", "Fare": 8.6625, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 674, "Pclass": 2, "Name": "Wilhelms, Mr. Charles", "Sex": "male", "Age": 31.0, "SibSp": 0, "Parch": 0, "Ticket": "244270", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 427, "Pclass": 2, "Name": "Clarke, Mrs. Charles V (Ada Maria Winfield)", "Sex": "female", "Age": 28.0, "SibSp": 1, "Parch": 0, "Ticket": "2003", "Fare": 26.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 449, "Pclass": 3, "Name": "Baclini, Miss. Marie Catherine", "Sex": "female", "Age": 5.0, "SibSp": 2, "Parch": 1, "Ticket": "2666", "Fare": 19.2583, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 393, "Pclass": 3, "Name": "Gustafsson, Mr. Johan Birger", "Sex": "male", "Age": 28.0, "SibSp": 2, "Parch": 0, "Ticket": "3101277", "Fare": 7.925, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 537, "Pclass": 1, "Name": "Butt, Major. Archibald Willingham", "Sex": "male", "Age": 45.0, "SibSp": 0, "Parch": 0, "Ticket": "113050", "Fare": 26.55, "Cabin": "B38", "Embarked": "S"}
+{"PassengerId": 448, "Pclass": 1, "Name": "Seward, Mr. Frederic Kimber", "Sex": "male", "Age": 34.0, "SibSp": 0, "Parch": 0, "Ticket": "113794", "Fare": 26.55, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 551, "Pclass": 1, "Name": "Thayer, Mr. John Borland Jr", "Sex": "male", "Age": 17.0, "SibSp": 0, "Parch": 2, "Ticket": "17421", "Fare": 110.8833, "Cabin": "C70", "Embarked": "C"}
+{"PassengerId": 425, "Pclass": 3, "Name": "Rosblom, Mr. Viktor Richard", "Sex": "male", "Age": 18.0, "SibSp": 1, "Parch": 1, "Ticket": "370129", "Fare": 20.2125, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 587, "Pclass": 2, "Name": "Jarvis, Mr. John Denzil", "Sex": "male", "Age": 47.0, "SibSp": 0, "Parch": 0, "Ticket": "237565", "Fare": 15.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 87, "Pclass": 3, "Name": "Ford, Mr. William Neal", "Sex": "male", "Age": 16.0, "SibSp": 1, "Parch": 3, "Ticket": "W./C. 6608", "Fare": 34.375, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 723, "Pclass": 2, "Name": "Gillespie, Mr. William Henry", "Sex": "male", "Age": 34.0, "SibSp": 0, "Parch": 0, "Ticket": "12233", "Fare": 13.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 463, "Pclass": 1, "Name": "Gee, Mr. Arthur H", "Sex": "male", "Age": 47.0, "SibSp": 0, "Parch": 0, "Ticket": "111320", "Fare": 38.5, "Cabin": "E63", "Embarked": "S"}
+{"PassengerId": 538, "Pclass": 1, "Name": "LeRoy, Miss. Bertha", "Sex": "female", "Age": 30.0, "SibSp": 0, "Parch": 0, "Ticket": "PC 17761", "Fare": 106.425, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 180, "Pclass": 3, "Name": "Leonard, Mr. Lionel", "Sex": "male", "Age": 36.0, "SibSp": 0, "Parch": 0, "Ticket": "LINE", "Fare": 0.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 256, "Pclass": 3, "Name": "Touma, Mrs. Darwis (Hanne Youssef Razi)", "Sex": "female", "Age": 29.0, "SibSp": 0, "Parch": 2, "Ticket": "2650", "Fare": 15.2458, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 151, "Pclass": 2, "Name": "Bateman, Rev. Robert James", "Sex": "male", "Age": 51.0, "SibSp": 0, "Parch": 0, "Ticket": "S.O.P. 1166", "Fare": 12.525, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 137, "Pclass": 1, "Name": "Newsom, Miss. Helen Monypeny", "Sex": "female", "Age": 19.0, "SibSp": 0, "Parch": 2, "Ticket": "11752", "Fare": 26.2833, "Cabin": "D47", "Embarked": "S"}
+{"PassengerId": 808, "Pclass": 3, "Name": "Pettersson, Miss. Ellen Natalia", "Sex": "female", "Age": 18.0, "SibSp": 0, "Parch": 0, "Ticket": "347087", "Fare": 7.775, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 547, "Pclass": 2, "Name": "Beane, Mrs. Edward (Ethel Clarke)", "Sex": "female", "Age": 19.0, "SibSp": 1, "Parch": 0, "Ticket": "2908", "Fare": 26.0, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 744, "Pclass": 3, "Name": "McNamee, Mr. Neal", "Sex": "male", "Age": 24.0, "SibSp": 1, "Parch": 0, "Ticket": "376566", "Fare": 16.1, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 457, "Pclass": 1, "Name": "Millet, Mr. Francis Davis", "Sex": "male", "Age": 65.0, "SibSp": 0, "Parch": 0, "Ticket": "13509", "Fare": 26.55, "Cabin": "E38", "Embarked": "S"}
+{"PassengerId": 454, "Pclass": 1, "Name": "Goldenberg, Mr. Samuel L", "Sex": "male", "Age": 49.0, "SibSp": 1, "Parch": 0, "Ticket": "17453", "Fare": 89.1042, "Cabin": "C92", "Embarked": "C"}
+{"PassengerId": 593, "Pclass": 3, "Name": "Elsbury, Mr. William James", "Sex": "male", "Age": 47.0, "SibSp": 0, "Parch": 0, "Ticket": "A/5 3902", "Fare": 7.25, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 699, "Pclass": 1, "Name": "Thayer, Mr. John Borland", "Sex": "male", "Age": 49.0, "SibSp": 1, "Parch": 1, "Ticket": "17421", "Fare": 110.8833, "Cabin": "C68", "Embarked": "C"}
+{"PassengerId": 635, "Pclass": 3, "Name": "Skoog, Miss. Mabel", "Sex": "female", "Age": 9.0, "SibSp": 3, "Parch": 2, "Ticket": "347088", "Fare": 27.9, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 291, "Pclass": 1, "Name": "Barber, Miss. Ellen \"Nellie\"", "Sex": "female", "Age": 26.0, "SibSp": 0, "Parch": 0, "Ticket": "19877", "Fare": 78.85, "Cabin": null, "Embarked": "S"}
+{"PassengerId": 554, "Pclass": 3, "Name": "Leeni, Mr. Fahim (\"Philip Zenni\")", "Sex": "male", "Age": 22.0, "SibSp": 0, "Parch": 0, "Ticket": "2620", "Fare": 7.225, "Cabin": null, "Embarked": "C"}
+{"PassengerId": 58, "Pclass": 3, "Name": "Novel, Mr. Mansouer", "Sex": "male", "Age": 28.5, "SibSp": 0, "Parch": 0, "Ticket": "2697", "Fare": 7.2292, "Cabin": null, "Embarked": "C"}

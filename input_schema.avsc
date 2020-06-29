@@ -1,0 +1,17 @@
+{
+    "type":"record",
+    "name":"titanic_input",
+    "fields": [
+	    {"name": "PassengerId", "type" : ["null", "int"]},
+	    {"name": "Pclass", "type" : ["null", "int"]},
+	    {"name": "Name", "type" : ["null", "string"]},
+	    {"name": "Sex", "type" : ["null", "string"]},
+	    {"name": "Age", "type" : ["null", "float"]},
+	    {"name": "SibSp", "type" : ["null", "int"]},
+	    {"name": "Parch", "type" : ["null", "int"]},
+	    {"name": "Ticket", "type" : ["null", "string"]},
+	    {"name": "Fare", "type" : ["null", "float"]},
+	    {"name": "Cabin", "type" : ["null", "string"]},
+	    {"name": "Embarked", "type" : ["null", "string"]}
+    ]
+}

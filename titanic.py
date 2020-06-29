@@ -1,3 +1,6 @@
+# fastscore.schema.0: input_schema
+# fastscore.schema.1: output_schema
+
 import pandas as pd
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
