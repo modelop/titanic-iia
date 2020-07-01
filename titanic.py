@@ -16,7 +16,7 @@ def begin():
     model = pickle.load(open('model.pkl', 'rb'))
 
 
-# modelop.train
+# modelop.training
 def train(train_df):
 
     X_train = train_df.drop('Survived', axis=1)
@@ -50,7 +50,7 @@ def train(train_df):
 
     pickle.dump(model, open('model.pkl', 'wb'))
 
-
+# modelop.metrics
 def metrics(df):
 
     X_test = df.drop('Survived', axis=1)
